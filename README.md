@@ -12,5 +12,5 @@ two switches to click.
 - [ ] Use mouse sensor to track movement?
 
 ## Parts?
-[https://www.tindie.com/products/citizenjoe/adns-9800-motion-sensor/](ADNS-9800 Motion Sensor)
+[https://www.tindie.com/products/citizenjoe/adns-9800-motion-sensor/](motion-sensor)
 
